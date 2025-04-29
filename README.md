@@ -11,7 +11,7 @@ Additionally, there are YouTube lectures on Statistical Learning with Python tha
 ## Repository Structure
 This repository includes:
 - **ISLP_Excercises folder:** Contains solutions to the exercises at the end of each chapter (divided into two files: one for conceptual exercises and one for applied exercises).
-- **ISLP_book folder:** Contains the book An Introduction to Statistical Learning with Applications in Python. This book is sourced from the website https://www.statlearning.com/.
+- **ISLP_book folder:** Contains the book *An Introduction to Statistical Learning with Applications in Python*. This book is sourced from the website https://www.statlearning.com/.
 - **ISLP_csv_files and ISLP_slides folders:** Contain dataset files, stored in this manner to facilitate working on exercises, and slides for quick review of content during exercises. These datasets and slides are available at https://www.statlearning.com/resources-python.
 
-All resources are available on the official website. Download the content from the website to access the latest updates.
+Additional Note: All resources are available on the official website. It is recommended to download the content from the website to ensure you have the latest updates.
